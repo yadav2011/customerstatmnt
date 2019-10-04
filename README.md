@@ -10,3 +10,4 @@ Steps :
    a). http://localhost:9080/StatementGeneration/generateMonthlyCVSFile
    b). http://localhost:9080/StatementGeneration/generateMonthlyXMLFile
 6. For  junit testcase, run customerStmntControllerTest.java
+7. 
